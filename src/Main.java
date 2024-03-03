@@ -6,6 +6,6 @@ public class Main {
         System.out.println("Hello GitHub!");
         System.out.println("Hello Git!");
         System.out.println("New BruncH");
-        System.out.println("12345");
+        System.out.println("54321");
     }
 }
